@@ -1,0 +1,9 @@
+{
+  "name": "zero1/optimization-metapackage",
+  "type": "metapackage",
+  "require": {
+    "zero1/query-param-inventory": "^1.0",
+    "zero1/module-cloudflare-cache": "^1.0",
+    "mdoq/infrastructure": "^1.0"
+  }
+}
