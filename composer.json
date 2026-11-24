@@ -5,6 +5,7 @@
     "zero1/query-param-inventory": "^1.1 || @dev",
     "zero1/module-cloudflare-cache": "^1.1 || @dev",
     "zero1/module-vcl-admin-bypass": "^1.0 || @dev",
+    "zero1/zero1/module-product-media-optimization": "^1.0 || @dev",
     "mdoq/infrastructure": "^1.3 || @dev"
   }
 }
